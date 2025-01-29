@@ -2,22 +2,18 @@
 /**
  * The plugin bootstrap file
  *
- * This file is read by WordPress to generate the plugin information in the plugin
- * admin area. This file also includes all of the dependencies used by the plugin,
- * registers the activation and deactivation functions, and defines a function
- * that starts the plugin.
  *
- * @link              https://github.com/frahim
+ * @link              https://github.com/enamahamed/Anber-wp-security
  * @since             1.0.0
  * @package           Anber_wp_security
 
  * @wordpress-plugin
  * Plugin Name:       Anber Wp Security
- * Plugin URI:        https://github.com/frahim
+ * Plugin URI:        https://github.com/enamahamed/Anber-wp-security
  * Description:       A Security solution for Wordpress
  * Version:           1.0.0
- * Author:            Md Yeasir Arafat
- * Author URI:        https://github.com/frahim/
+ * Author:            MD Enam Ahamed Chowdhury
+ * Author URI:        https://github.com/enamahamed
  * License:           GPLv3
  * License URI:       http://www.gnu.org/licenses/gpl-3.0.html
  * Text Domain:       anber-wp-security
